@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/gdgjs/gdgjs.github.io/issues"
   },
-  "homepage": "https://github.com/gdgjs/gdgjs.github.io"
+  "homepage": "https://github.com/gdgjs/gdgjs.github.io",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-compass": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0"
+  }
 }
