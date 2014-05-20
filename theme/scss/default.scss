@@ -2,7 +2,7 @@
 @import "compass/css3/columns";
 @import "compass/css3/user-interface";
 
-$social-tags: '#yourhashtag';
+$social-tags: '#gdgjs #gdgjaraguadosul';
 $brand-small-icon-size: 30px;
 
 $gray-1: #e6e6e6;
@@ -1080,4 +1080,12 @@ aside.gdbar {
   pre, code {
     font-family: monospace !important;
   }
+}
+
+.see-at-gm {
+  font-size: 12px;
+  margin-bottom: 5px;
+  display: block;
+  text-decoration: none;
+  border: 0;
 }

@@ -1,7 +1,7 @@
 var SLIDE_CONFIG = {
   // Slide settings
   settings: {
-    title: 'Google Developer Group',
+    title: 'Google Developers Group',
     subtitle: 'GDG Jaraguá do Sul',
     //eventTitle: 'Google I/O 2013',
     useBuilds: true, // Default: true. False will turn off slide animation builds.
@@ -21,7 +21,7 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: '',
     company: '',
-    gplus: 'https://plus.google.com/communities/107508952496980717886',
+    gplus: 'GDG Jaraguá do Sul',
     github: 'https://github.com/gdgjs'
   }/*, {
     name: 'Second Name',
