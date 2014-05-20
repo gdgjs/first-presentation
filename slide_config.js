@@ -22,9 +22,7 @@ var SLIDE_CONFIG = {
     name: '',
     company: '',
     gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    github: 'https://github.com/gdgjs'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
