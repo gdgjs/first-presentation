@@ -11,11 +11,8 @@ module.exports = function (grunt) {
     pkg: grunt.file.readJSON('package.json'),
 
     meta: {
-      pathSass: 'public/assets/_sass',
-      pathJS: 'public/assets/js',
-      pathJSBuild: 'public/build/js',
-      pathCSS: 'public/build/css',
-      pathImg: 'public/build/img'
+      pathSass: 'theme/scss',
+      pathCSS: 'theme/css'
     },
 
     compass: {
