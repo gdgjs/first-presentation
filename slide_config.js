@@ -21,7 +21,7 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: '',
     company: '',
-    gplus: 'http://plus.google.com/1234567890',
+    gplus: 'https://plus.google.com/communities/107508952496980717886',
     github: 'https://github.com/gdgjs'
   }/*, {
     name: 'Second Name',
