@@ -21,7 +21,7 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: '',
     company: '',
-    gplus: 'GDG Jaraguá do Sul',
+    gplus: 'http://goo.gl/tn45RU',
     github: 'https://github.com/gdgjs'
   }/*, {
     name: 'Second Name',
